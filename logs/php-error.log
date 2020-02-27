@@ -1,0 +1,1 @@
+[27-Feb-2020 08:03:23 UTC] PHP Warning:  phpinfo(): Invalid date.timezone value 'Aisa/Tokyo', we selected the timezone 'UTC' for now. in /work/public/phpinfo.php on line 1
